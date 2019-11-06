@@ -41,3 +41,8 @@ function copyClip() {
     alert("Copied the text: " + copyText.value);
 }
   
+document.getElementById("reset").onclick = function resetForm() {
+    document.getElementById("password").innerHTML = "";
+    passwordArray = [""];
+    password = [""];
+ };
