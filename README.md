@@ -2,6 +2,8 @@
 
 For this project, I have been tasked with creating a password generator. Upon opening the page, the user can see 3 buttons. One to generate a password, one to copy the password to the clipboard, and one to reset the generator in case you need to generate another password.
 
+If you would like to try it out for yourself, please follow this link: https://ptj92e.github.io/Password-Generator/
+
 ## Generator
 
 When the user clicks the password generator button, the user will be prompted with a series of questions with certain parameters that are needed for the password.
