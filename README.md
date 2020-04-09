@@ -4,6 +4,8 @@ For this project, I have been tasked with creating a password generator. Upon op
 
 If you would like to try it out for yourself, please follow this link: https://ptj92e.github.io/Password-Generator/
 
+![Image of app]("./images/PasswordGenerator.png")
+
 ## Generator
 
 When the user clicks the password generator button, the user will be prompted with a series of questions with certain parameters that are needed for the password.
