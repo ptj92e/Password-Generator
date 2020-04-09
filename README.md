@@ -4,7 +4,7 @@ For this project, I have been tasked with creating a password generator. Upon op
 
 If you would like to try it out for yourself, please follow this link: https://ptj92e.github.io/Password-Generator/
 
-![Image of app]("./images/PasswordGenerator.png")
+![App Image](/images/PasswordGenerator.png)
 
 ## Generator
 
